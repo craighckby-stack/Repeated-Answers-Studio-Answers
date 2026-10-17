@@ -1,0 +1,13 @@
+{
+  "type": "header",
+  "schema": "repeated-answers/v2",
+  "runId": "run-nivo583",
+  "updatedAt": "2026-10-17T12:13:08.719Z",
+  "batches": [
+    1
+  ],
+  "totalAttemptsInBatch": 25,
+  "keptInBatch": 25,
+  "rejectedInBatch": 0,
+  "errorsInBatch": 0
+}
