@@ -2,12 +2,13 @@
   "type": "header",
   "schema": "repeated-answers/v2",
   "runId": "run-rbm8lei",
-  "updatedAt": "2026-10-18T07:03:54.705Z",
+  "updatedAt": "2026-10-18T07:08:34.148Z",
   "batches": [
-    1
+    1,
+    2
   ],
   "totalAttemptsInBatch": 25,
-  "keptInBatch": 12,
-  "rejectedInBatch": 13,
+  "keptInBatch": 20,
+  "rejectedInBatch": 5,
   "errorsInBatch": 0
 }
