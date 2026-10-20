@@ -2,13 +2,14 @@
   "type": "header",
   "schema": "repeated-answers/v2",
   "runId": "run-ceoupm8",
-  "updatedAt": "2026-10-20T15:28:25.328Z",
+  "updatedAt": "2026-10-20T15:50:58.869Z",
   "batches": [
     1,
-    2
+    2,
+    3
   ],
   "totalAttemptsInBatch": 25,
   "keptInBatch": 0,
-  "rejectedInBatch": 25,
-  "errorsInBatch": 0
+  "rejectedInBatch": 23,
+  "errorsInBatch": 2
 }
