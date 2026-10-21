@@ -1,0 +1,13 @@
+{
+  "type": "header",
+  "schema": "repeated-answers/v2",
+  "runId": "run-u4cq5vx",
+  "updatedAt": "2026-10-21T11:15:17.913Z",
+  "batches": [
+    1
+  ],
+  "totalAttemptsInBatch": 25,
+  "keptInBatch": 0,
+  "rejectedInBatch": 24,
+  "errorsInBatch": 1
+}
