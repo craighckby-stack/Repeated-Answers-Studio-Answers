@@ -2,14 +2,15 @@
   "type": "header",
   "schema": "repeated-answers/v2",
   "runId": "run-o76jtsj",
-  "updatedAt": "2026-10-21T11:27:47.649Z",
+  "updatedAt": "2026-10-21T11:37:03.344Z",
   "batches": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "totalAttemptsInBatch": 25,
-  "keptInBatch": 0,
-  "rejectedInBatch": 25,
-  "errorsInBatch": 0
+  "keptInBatch": 2,
+  "rejectedInBatch": 22,
+  "errorsInBatch": 1
 }
