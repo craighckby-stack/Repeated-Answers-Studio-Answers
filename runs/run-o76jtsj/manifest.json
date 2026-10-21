@@ -2,7 +2,7 @@
   "type": "header",
   "schema": "repeated-answers/v2",
   "runId": "run-o76jtsj",
-  "updatedAt": "2026-10-21T11:50:49.137Z",
+  "updatedAt": "2026-10-21T11:59:20.634Z",
   "batches": [
     1,
     2,
@@ -10,10 +10,11 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "totalAttemptsInBatch": 25,
   "keptInBatch": 0,
-  "rejectedInBatch": 21,
-  "errorsInBatch": 4
+  "rejectedInBatch": 25,
+  "errorsInBatch": 0
 }
